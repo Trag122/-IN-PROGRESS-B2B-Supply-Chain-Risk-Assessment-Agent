@@ -162,9 +162,3 @@ WORKFLOW COMPLETED. FINAL REPORT:
 This PoC demonstrates a shift from static credit analysis to dynamic, event-driven risk monitoring. It helps financial institutions reduce underwriting time, identify real-time market risks before they appear on balance sheets, and maintain governance by keeping final decision authority in human hands.
 
 ```
-
-### Điểm nhấn quan trọng trong bản cập nhật này:
-1. **Tech Stack đã được điều chỉnh:** Tôi đã thay toàn bộ references từ OpenAI/Tavily sang **Google Gemini 2.5 Flash** và **DuckDuckGo**, đi kèm với câu lệnh `pip install` chính xác nhất.
-2. **Real Output:** Tôi đã copy đoạn log terminal chân thực nhất của bạn nhét vào phần 7. Việc show ra được quá trình Graph ngắt luồng (`__interrupt__`), lý luận sắc bén của AI, và quyết định Reject của con người là bảo chứng tuyệt đối cho độ hoàn thiện của hệ thống khi ai đó đọc GitHub của bạn.
-
-```
