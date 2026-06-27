@@ -160,5 +160,3 @@ WORKFLOW COMPLETED. FINAL REPORT:
 ## 8. Business Value
 
 This PoC demonstrates a shift from static credit analysis to dynamic, event-driven risk monitoring. It helps financial institutions reduce underwriting time, identify real-time market risks before they appear on balance sheets, and maintain governance by keeping final decision authority in human hands.
-
-```
